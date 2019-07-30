@@ -202,6 +202,7 @@ input {
 
 /* On hover, add a black background color with a little bit see-through */
 .prev:hover, .next:hover {
+  color: #717171
   background-color: rgba(0,0,0,0.8);
 }
 
