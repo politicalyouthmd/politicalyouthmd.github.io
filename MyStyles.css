@@ -362,3 +362,7 @@ main {
 .calendar__day:last-child {
   border-right: 0;
 }
+
+.calendar__entry {
+  text-align: left;
+}
