@@ -338,6 +338,10 @@ main {
 }
 
 .calendar {
+  display: grid;
+  grid-template-rows: 70px 1fr 70px;
+  grid-template-columns: 1fr;
+}
   background-color: white;
   border: 1px solid #e1e1e1;
 }
@@ -365,6 +369,6 @@ main {
 
 .calendar__entry {
   text-align: left;
-  size: 6px;
+  size: 5px;
   list-style-type: none;
 }
