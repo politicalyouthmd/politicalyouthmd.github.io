@@ -365,4 +365,5 @@ main {
 
 .calendar__entry {
   text-align: left;
+  size: 8px;
 }
