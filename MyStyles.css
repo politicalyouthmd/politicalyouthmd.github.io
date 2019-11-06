@@ -366,4 +366,5 @@ main {
 .calendar__entry {
   text-align: left;
   size: 6px;
+  list-style-type: none;
 }
